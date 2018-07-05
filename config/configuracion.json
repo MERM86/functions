@@ -1,6 +1,6 @@
 {
 	"host": {
-		"apiManager": "https://api-uat.oscp.gnp.com.mx"
+		"apiManager": "api-uat.oscp.gnp.com.mx"
 	},
-	"apiKey": "xxxxx"
+	"apiKey": "l7xxd302d75d3e234e8ba33333988158afa5"
 }
