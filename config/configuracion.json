@@ -1,0 +1,6 @@
+{
+	"host": {
+		"apiManager": "https://api-uat.oscp.gnp.com.mx"
+	},
+	"apiKey": "xxxxx"
+}
