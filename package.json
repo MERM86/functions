@@ -1,7 +1,12 @@
 {
-	"name": "sample-http",
-	"version": "0.0.1",
-	"dependencies": {
-		"https": "1.0.0"
+	"host": {
+		"apiManager": "api-uat.oscp.gnp.com.mx"
+	},
+	"apiKey": "l7xxd302d75d3e234e8ba33333988158afa5"
+	,
+	"paths":{	   
+	   "reporte_historico":"crm-listas-restringidas/reporte-historico",
+	   "reporte_24_hrs":"crm-listas-restringidas/reporte-24hrs",
+	   "alta_persona":"crm-listas-restringidas/alta-persona"
 	}
 }
